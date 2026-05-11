@@ -48,10 +48,9 @@ Use the trained model to predict  for a new input value .
 
 ## PROGRAM
 
-### Name: RAMYA R
+### Name: SARAVANAN SHAM PRAKASH
 
-### Register Number: 212223230169
-
+### Register Number: 212224230254
 ```python
 class NeuralNet(nn.Module):
   def __init__(self):
